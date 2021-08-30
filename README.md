@@ -1,6 +1,4 @@
 # Hash Code Online Qualification 2021
-
-## Competition
 ### Algorithm
 1. Push every street's end intersections into an array 
 2. Check intersection
