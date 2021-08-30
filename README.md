@@ -1,6 +1,4 @@
-# Hash Code practice problem 2021
-[Problem Statement](https://bytefreaks.net/google/hash-code/google-hash-code-2021-practice-problem)
-
+# Hash Code Online Qualification 2021
 
 ## Competition
 ### Algorithm
